@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-26T14:43:54.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="x4zKMLebnWxTX1zmbCai" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-26T14:45:12.579Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="vIJjDd2NVQkojTv8Bblu" version="22.1.20" type="github">
   <diagram name="Page-1" id="5f0bae14-7c28-e335-631c-24af17079c00">
     <mxGraphModel dx="1434" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
       <root>
@@ -25,7 +25,7 @@
         <mxCell id="30EmhshtBAR26avfVBTr-8" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="110" y="230" width="348" height="160" as="geometry" />
         </mxCell>
-        <mxCell id="39150e848f15840c-3" value="Backend" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="30EmhshtBAR26avfVBTr-8" vertex="1">
+        <mxCell id="39150e848f15840c-3" value="&lt;font color=&quot;#1a1a1a&quot;&gt;Backend&lt;/font&gt;" style="verticalAlign=top;align=left;spacingTop=8;spacingLeft=2;spacingRight=12;shape=cube;size=10;direction=south;fontStyle=4;html=1;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;fillColor=#60a917;strokeColor=#2D7600;fontColor=#ffffff;" parent="30EmhshtBAR26avfVBTr-8" vertex="1">
           <mxGeometry width="348" height="160" as="geometry" />
         </mxCell>
         <mxCell id="39150e848f15840c-10" value="API (BE)" style="shape=component;align=left;spacingLeft=36;rounded=0;shadow=0;comic=0;labelBackgroundColor=none;strokeWidth=1;fontFamily=Verdana;fontSize=12;html=1;" parent="30EmhshtBAR26avfVBTr-8" vertex="1">
